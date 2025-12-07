@@ -1,4 +1,10 @@
-## Hi there 👋
+## katatea
+I'm katatea (he/him), a 17yo game developer currently in high school. I work with Roblox & luaU mostly creating a game named **Eyes of Diamond**.
+Feel free to contact me!
+
+Besides luaU, I've dabbled in these languages:
+(https://skillicons.dev/icons?i=cs,js,py)](https://skillicons.dev)
+these have mostly been for school or for personal projects, so I don't have much professional experience in them.
 
 <!--
 **katatea/katatea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
