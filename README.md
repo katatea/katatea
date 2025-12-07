@@ -1,5 +1,6 @@
 ## katatea
-I'm katatea (he/him), a 17yo game developer currently in high school. I work with Roblox & luaU mostly creating a game named **Eyes of Diamond**.
+I'm katatea (he/him), a 17yo game developer currently in high school. I work with Roblox & luaU mostly creating a game named [**Eyes of Diamond**](https://www.roblox.com/communities/4318317/Eyes-of-Diamond#!/about).
+
 Feel free to contact me!
 
 Besides luaU, I've dabbled in these languages:
